@@ -5,6 +5,7 @@ export async function POST(request) {
   const key = process.env.GOOGLE_API_KEY;
 
   const { prompt } = await request.json();
+  
 
   // Ensure the CORS headers are set
   const responseHeaders = new Headers();
