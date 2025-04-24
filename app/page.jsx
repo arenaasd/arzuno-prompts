@@ -53,9 +53,9 @@ const Page = () => {
             boxShadow: 'inset 0 0 12px rgba(255, 215, 0, 0.15)',
           }}
         >
-          ✨ Select any text on a webpage and a golden floating icon will appear beside it.
+           🔮  Select any text on a webpage and a golden floating icon will appear beside it.
           <br /><br />
-          🔮 Click the icon, and the selected text will be magically enhanced using AI.
+           ✨ Click the icon, and the selected text will be magically enhanced using AI.
         </p>
       </div>
     </div>
